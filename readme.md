@@ -21,3 +21,6 @@ Requisitos !!!
     - nivel de capacidade no trabalho
     - nivel na cozinha
 }
+
+
+- Trabalhos *devem estar de acordo* areas de estudo
